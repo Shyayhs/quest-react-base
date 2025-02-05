@@ -12,7 +12,6 @@ Desafio de React Básico proposto pelo curso DevQuest, mostrando o texto que o u
 ### Link
 
 - Página no GitHub : [Quest React Base](https://github.com/Shyayhs/quest-react-base)
-- Página do GitHub Pages: [Quest React Base](https://shyayhs.github.io/quest-react-base/)
 
 ## Autor
 
