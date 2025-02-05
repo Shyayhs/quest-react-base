@@ -1,0 +1,10 @@
+.div-result {
+    font-size: 30px;
+    align-self: center;
+    min-height: 40px;
+}
+
+p {
+    margin: 0;
+    max-width: 500px;
+}
